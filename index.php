@@ -21,11 +21,11 @@ $response = null;
 
 <html>
   <head>
-    <title>Google reCAPTCHA w/ PHP</title>
+    <title>Google reCAPTCHA - PHP</title>
      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   </head>
   <body>
-    <h1>Google reCAPTCHA w/ PHP - Demo Form</h1>
+    <h1>Google reCAPTCHA - PHP</h1>
     <br>
     <h4><?php echo $response;?></h4>
     <br>

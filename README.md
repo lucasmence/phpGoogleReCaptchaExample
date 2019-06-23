@@ -1,4 +1,3 @@
-# Demo project using Google reCAPTCHA with PHP
 
 ![](https://github.com/lucasmence/phpGoogleReCaptchaExample/blob/master/media/projectForm.png?raw=true)
 

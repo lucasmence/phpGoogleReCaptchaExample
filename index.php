@@ -21,7 +21,7 @@ $response = null;
 
 <html>
   <head>
-    <title>Google reCAPTCHA w/ PHP - Demo Form</title>
+    <title>Google reCAPTCHA w/ PHP</title>
      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   </head>
   <body>
@@ -32,7 +32,7 @@ $response = null;
     <form action="post.php" method="POST">
       <div class="g-recaptcha" data-sitekey="your-sitekey-here"></div>
       <br/>
-      <input type="submit" value="Post">
+      <input type="submit" value="Send">
     </form>
   </body>
 </html>

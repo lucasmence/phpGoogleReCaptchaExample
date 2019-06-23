@@ -1,4 +1,6 @@
-# Demo project using Google reCaptcha w/ PHP;
+# Demo project using Google reCAPTCHA with PHP
+
+_Para a explicação passo-a-passo em português, [clique aqui](https://github.com/lucasmence/phpGoogleReCaptchaExample/blob/master/README-PT.md)._
 
 
 # Tutorial

@@ -1,5 +1,4 @@
-# Demo project using the 
-Demo project using Google reCaptcha w/ PHP;
+# Demo project using Google reCaptcha w/ PHP;
 
 
 # Tutorial

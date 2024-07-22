@@ -1,10 +1,6 @@
 
 ![](https://github.com/lucasmence/phpGoogleReCaptchaExample/blob/master/media/projectForm.png?raw=true)
 
-_Para a explicação passo-a-passo em português, [clique aqui](https://github.com/lucasmence/phpGoogleReCaptchaExample/blob/master/README-PT.md)._ (for portuguese users)
-
-# Tutorial
-
 ## Getting the reCAPTCHA keys
 
 If you doesn't have a Google reCAPTCHA site key and secret key;
